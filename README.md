@@ -9,7 +9,7 @@ Junior Mamani Estaña
 ## Repositorio GitHub
 URL del repositorio público:
 
-[PE_II_EXAMEN_PRACTICO](https://github.com/zJunior99/PE_II_EXAMEN_PRACTICO_PRUEBA.git)
+[PE_II_EXAMEN_PRACTICO](https://github.com/zJunior99/PE_II_EXAMEN_PRACTICO.git)
 
 ## Descripción del Sistema
 
